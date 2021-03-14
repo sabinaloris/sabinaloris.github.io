@@ -1,0 +1,26 @@
+h1 {
+	font-family: Trebuchet MS;
+	color: #F40909;
+}
+
+h2, h3 {
+	font-family: Tahoma;
+	color: #B504FF;
+	text-decoration: underline;
+}
+
+ul {
+  list-style-type: none;
+}
+
+body {
+	background-color: #B1F7B4;
+	margin: 0 auto;
+	max-width: 50em;
+	text-align: center;
+}
+
+img {
+    max-width: 30%;
+    max-height: 30%;
+}
